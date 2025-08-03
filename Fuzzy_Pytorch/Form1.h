@@ -836,7 +836,7 @@ public: System::Void draw_Fuzzy()
     lp_Bar3->Pen = gcnew Pen(Color::Magenta, 2.0f);
     //
     Plot_Quality->Add(lp_Bar3);
-    //=========================
+    //======================================
     Plot_Quality->XAxis1->Label = "Quality";
     Plot_Quality->YAxis1->Label = "Fuzzy";
     //
